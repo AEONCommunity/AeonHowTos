@@ -24,9 +24,9 @@ This repository is to hold informational how-to's and usability of Aeon projects
 
 * [How to connect to Aeon Community with the Contact List](https://medium.com/@AEON_Community/aeon-community-contacts-5d56fb05bfa3)
 
-* [How to Compile Aeon-GUI for Android](https://www.reddit.com/r/Aeon/comments/82cwth/how_to_compile_rebase_gui_wallet_for_android/)
+* [How to Compile Aeon-GUI for Android](https://www.reddit.com/r/Aeon/comments/82cwth/how_to_compile_rebase_gui_wallet_for_android/)  Note: this worked for rebase build for Aeon v0.12.0.0
 
-* [How to Comple Aeon-CLI/Daemon for Android](https://www.reddit.com/r/Aeon/comments/82bet8/how_to_compile_rebase_aeondaeonwalletcli_for/)
+* [How to Compile Aeon-CLI/Daemon for Android](https://www.reddit.com/r/Aeon/comments/82bet8/how_to_compile_rebase_aeondaeonwalletcli_for/) Note: this worked for rebase build for Aeon v0.12.0.0
 
 * How to ............
 
